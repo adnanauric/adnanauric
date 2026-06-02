@@ -1,8 +1,13 @@
-## Hi there 👋
-### My name is Md. Adnan Abir
-#### I'm an Undergrad Student at Rhein-Waal University of Applied Sciences pursuing Infotronic Systems Engineering.
+# Hi, I'm Adnan 👋
 
-I'm a Tech-Enthusiast 💻 . I always like to learn new things from others as much as help others to solve their problems. Do you know what else is fun? Learning code is. Let's work for a better opensource, decentralized future.
+I'm an Infotronic Systems Engineering student in Germany and currently working as a Working Student in Testing & Quality Assurance.
+
+I'm learning QA Automation, SDET skills, Python, Playwright, API testing, and CI/CD.
+
+## Current Focus
+- Python for test automation
+- API testing
+- UI automation with Playwright
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/adnan.auric/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/auric__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-adnan-abir-364a771b5/) [![Blogger](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sNLibZWI2S6dfEROazR6yG31ivLPV7HmsPZ992eJEr9t2PG4fPKXP_1dHXK7DXEDBTa5KloKVPEpWw0MDz3ryvnQDpnE7-YyNjm-Jf6xh7xNknkcPQ5ejHVlibOJghPGszagA45fkvjZXLwDRMo-dJkLUCfpC2m2rXK9fbRXzL6PslnN9t4OcT5x6w/s1600/blogger.png)](https://adnanauric.blogspot.com//)
